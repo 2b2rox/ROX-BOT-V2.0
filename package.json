@@ -1,6 +1,6 @@
 {
-  "name": "CheemsBot-MD",
-  "version": "6.0.0",
+  "name": "RoxBot-MD",
+  "version": "1.0.0",
   "description": "Automated whatsapp md bot created using nodejs and baileys lib",
   "type": "commonjs",
   "scripts": {
@@ -15,7 +15,7 @@
     "bot",
     "bot-md",
     "multi-device",
-    "xeon-bot-inc"
+    "rox-bot-inc"
   ],
   "author": "DGXeon",
   "license": "AGPL-3",
