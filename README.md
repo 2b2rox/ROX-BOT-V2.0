@@ -16,7 +16,7 @@ Big thanks❤️ to <a href="https://github.com/nimaofficial" target="_blank">Ni
 ---
 
 <p align="center">
-<a href="https://www.youtube.com/@MusicNooo"><img title="Size" src="https://telegra.ph/file/519a78e58bcb678969a73.png"width="100px" height="25px"></a>
+<a href="https://www.youtube.com/@MusicNooo"><img title="Size" src="https://telegra.ph/file/4a6d05667a894d7aa6622.png"width="100px" height="50px"></a>
 </p>
 
 ------
