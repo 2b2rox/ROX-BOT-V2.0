@@ -99,7 +99,7 @@ async function startXeonBotInc() {
         if (!XeonBotInc.public && !mek.key.fromMe && chatUpdate.type === 'notify') return
         if (mek.key.id.startsWith('BAE5') && mek.key.id.length === 16) return
         m = smsg(XeonBotInc, mek, store)
-        require("./XeonCheems6")(XeonBotInc, m, chatUpdate, store)
+        require("./Rox-Bot")(XeonBotInc, m, chatUpdate, store)
         } catch (e) {
             console.log(e)
         }
