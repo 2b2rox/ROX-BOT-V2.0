@@ -26,9 +26,9 @@ Big thanks❤️ to <a href="https://github.com/nimaofficial" target="_blank">Ni
 
 ## ```Bot Support Groups```
 
-- [`1st GC`]()
-- [`2nd GC`]()
-- [`3rd GC`]()
+- [`1st GROUP`](https://chat.whatsapp.com/HiB0gGsC6Ks8dKSLO7gtgw)
+- [`2nd GROUP`](https://chat.whatsapp.com/HdVRuT5UFNN02DQBqIALzK)
+- [`3rd GROUP`](https://chat.whatsapp.com/JOH9TUBpe85JL34K7Ha2HY)
 
 
 
