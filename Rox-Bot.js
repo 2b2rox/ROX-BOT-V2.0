@@ -7690,142 +7690,178 @@ const buttons = [
 ]
 const buttonMessage = {
     image: unicorn,
-    caption: `╔═══════✪ OWNER 	
-╠ ${prefix}self
-╠ ${prefix}public
-╠ ${prefix}join [link]
-╠ ${prefix}leavegc
-╠ ${prefix}setbio
-╠ ${prefix}bctext [text]
-╠ ${prefix}bcimage [reply img/text]
-╠ ${prefix}bcvideo [reply img/text]
-╠ ${prefix}setbotpp [image]
-╠ ${prefix}setthumb [reply img]
-╠ ${prefix}setexif
-╠ ${prefix}hijack
-╠ ${prefix}creategroup [name]
-╠ ${prefix}block [tag/number]
-╠ ${prefix}unblock [tag/number]
-╠═══════✪ GROUP 	        
-╠${prefix}grouplink
-╠${prefix}ephemeral [option]
-╠${prefix}setgcpp [image]
-╠${prefix}setname [text]
-╠${prefix}setdesc [text]
-╠${prefix}group 
-╠${prefix}resetgrouplink
-╠${prefix}editinfo [option]
-╠${prefix}menfess [number]
-╠${prefix}add [user]
-╠${prefix}kick [reply/tag]
-╠${prefix}hidetag [text]
-╠${prefix}tagall [text]
-╠${prefix}antilinkgc [on/off]
-╠${prefix}antilinktg [on/off]
-╠${prefix}antilinktt [on/off]
-╠${prefix}antilinkytch [on/off]
-╠${prefix}antilinkytvid [on/off]
-╠${prefix}antilinkig [on/off]
-╠${prefix}antilinkfb [on/off]
-╠${prefix}antilinktwit [on/off]
-╠${prefix}antilinkall [on/off]
-╠${prefix}antivirus [on/off]
-╠${prefix}antitoxic [on/off]
-╠${prefix}antiwame [on/off]
-╠${prefix}nsfw [on/off]
-╠${prefix}promote [reply/tag]
-╠${prefix}demote [reply/tag]
-╠${prefix}react [reply emoji]
-╠${prefix}vote
-╠${prefix}devote
-╠${prefix}upvote
-╠${prefix}checkvote
-╠${prefix}delvote
-╠═══════✪ MAKER 
-╠${prefix}candy
-╠${prefix}blackpinkneon
-╠${prefix}deepsea
-╠${prefix}scifi
-╠${prefix}fiction
-╠${prefix}berry
-╠${prefix}fruitjuice
-╠${prefix}biscuit
-╠${prefix}wood
-╠${prefix}chocolate
-╠${prefix}matrix
-╠${prefix}blood
-╠${prefix}halloween
-╠${prefix}wicker
-╠${prefix}darkgold
-╠${prefix}firework
-╠${prefix}skeleton
-╠${prefix}sand
-╠${prefix}glue
-╠${prefix}leaves
-╠${prefix}magma
-╠${prefix}lava
-╠${prefix}rockart
-╠${prefix}bloodglas
-╠${prefix}underwater
-╠${prefix}textmaker
-╠${prefix}honey
-╠${prefix}ice
-╠${prefix}watercolor
-╠${prefix}multicolor
-╠${prefix}snow
-╠${prefix}harrypot
-╠${prefix}harrypotter
-╠${prefix}brokenglass
-╠${prefix}waterpipe
-╠${prefix}spooky
-╠${prefix}circuit
-╠${prefix}metallic
-╠${prefix}demon
-╠${prefix}sparklechristmas
-╠${prefix}christmas
-╠${prefix}3dchristmas
-╠${prefix}3dbox
-╠${prefix}waterdrop
-╠${prefix}lion2
-╠${prefix}papercut
-╠${prefix}transformer
-╠${prefix}neondevil
-╠${prefix}3davengers
-╠${prefix}3dstone
-╠${prefix}3dstone2
-╠${prefix}summertime
-╠${prefix}thunder
-╠${prefix}window
-╠${prefix}graffiti
-╠${prefix}graffitibike
-╠${prefix}pornhub
-╠${prefix}glitch
-╠${prefix}blackpinkart
-╠${prefix}glitch2
-╠${prefix}glitch3
-╠${prefix}3dspace
-╠${prefix}lion
-╠${prefix}3dneon
-╠${prefix}greenneon
-╠${prefix}bokeh
-╠${prefix}holographic
-╠${prefix}bear
-╠${prefix}wolf
-╠${prefix}joker
-╠${prefix}dropwater
-╠${prefix}dropwater2
-╠${prefix}thewall
-╠${prefix}neonlight
-╠${prefix}natural
-╠${prefix}carbon
-╠${prefix}pencil
-╠${prefix}blackpink2
-╠${prefix}neon
-╠${prefix}neonlight2
-╠${prefix}toxic
-╠${prefix}strawberry
-╠${prefix}discovery
-╠${prefix}1917
+    caption: `╔═══════✪ ❤ *OWNER* ❤	
+╠ 👽 ${prefix}*self*
+╠ 👽 ${prefix}*public*
+╠ 👽 ${prefix}*join*
+╠  LINK
+╠ 👽 ${prefix}*leavegc*
+╠ 👽 ${prefix}*setbio*
+╠ 👽 ${prefix}*bctext*
+╠  TEXT
+╠ 👽 ${prefix}*bcimage*
+╠  REPLY IMG / TEXT
+╠ 👽 ${prefix}*bcvideo*
+╠  REPLY IMG / TEXT
+╠ 👽 ${prefix}*setbotpp*
+╠  IMAGE
+╠ 👽 ${prefix}*setthumb*
+╠  REPLY IMG
+╠ 👽 ${prefix}*setexif*
+╠ 👽 ${prefix}*hijack*
+╠ 👽 ${prefix}*creategroup*
+╠  NAME
+╠ 👽 ${prefix}*block*
+╠  TAG NUMBER
+╠ 👽 ${prefix}*unblock*
+╠  TAG NUMBER
+╠═══════✪  ✔ GROUP  ✔	        
+╠ ⭕ ${prefix}*grouplink*
+╠ ⭕ ${prefix}*ephemeral*
+╠  OPTION
+╠ ⭕ ${prefix}*setgcpp
+╠  IMAGE
+╠ ⭕ ${prefix}setname
+╠  TEXT
+╠ ⭕ ${prefix}setdesc
+╠  TEXT
+╠ ⭕ ${prefix}group 
+╠ ⭕ ${prefix}resetgrouplink
+╠ ⭕ ${prefix}editinfo
+╠  OPTION
+╠ ⭕ ${prefix}menfess
+╠  NUMBER
+╠ ⭕ ${prefix}add
+╠  USER
+╠ ⭕ ${prefix}kick
+╠  REPLY / TAG
+╠ ⭕ ${prefix}hidetag
+╠  TEXT
+╠ ⭕ ${prefix}tagall
+╠  ALL
+╠ ⭕ ${prefix}antilinkgc
+╠  ON / OFF
+╠ ⭕ ${prefix}antilinktg
+╠  ON / OFF
+╠ ⭕ ${prefix}antilinktt
+╠  ON / OFF
+╠ ⭕ ${prefix}antilinkytch
+╠  ON / OFF
+╠ ⭕ ${prefix}antilinkytvid
+╠  ON / OFF
+╠ ⭕ ${prefix}antilinkig 
+╠  ON / OFF
+╠ ⭕ ${prefix}antilinkfb
+╠  ON / OFF
+╠ ⭕ ${prefix}antilinktwit
+╠  ON / OFF
+╠ ⭕ ${prefix}antilinkall
+╠  ON / OFF
+╠ ⭕ ${prefix}antivirus
+╠  ON / OFF
+╠ ⭕ ${prefix}antitoxic
+╠  ON / OFF
+╠ ⭕ ${prefix}antiwame
+╠  ON / OFF
+╠ ⭕ ${prefix}nsfw
+╠  ON / OFF
+╠ ⭕ ${prefix}promote
+╠  REPLY / TAG
+╠ ⭕ ${prefix}demote
+╠  REPLY / TAG
+╠ ⭕ ${prefix}react
+╠  REPLY EMOJI
+╠ ⭕ ${prefix}vote
+╠ ⭕ ${prefix}devote
+╠ ⭕ ${prefix}upvote
+╠ ⭕ ${prefix}checkvote
+╠ ⭕ ${prefix}delvote
+╠═══════✪ 〽 MAKER 〽
+╠ ${prefix}candy
+╠   🔰 Ex - *candy RoxBot*
+╠ ${prefix}blackpinkneon
+╠ ${prefix}deepsea
+╠ ${prefix}scifi
+╠ ${prefix}fiction
+╠ ${prefix}berry
+╠ ${prefix}fruitjuice
+╠ ${prefix}biscuit
+╠ ${prefix}wood
+╠ ${prefix}chocolate
+╠ ${prefix}matrix
+╠ ${prefix}blood
+╠ ${prefix}halloween
+╠ ${prefix}wicker
+╠ ${prefix}darkgold
+╠ ${prefix}firework
+╠ ${prefix}skeleton
+╠ ${prefix}sand
+╠ ${prefix}glue
+╠ ${prefix}leaves
+╠ ${prefix}magma
+╠ ${prefix}lava
+╠ ${prefix}rockart
+╠ ${prefix}bloodglas
+╠ ${prefix}underwater
+╠ ${prefix}textmaker
+╠ ${prefix}honey
+╠ ${prefix}ice
+╠ ${prefix}watercolor
+╠ ${prefix}multicolor
+╠ ${prefix}snow
+╠ ${prefix}harrypot
+╠ ${prefix}harrypotter
+╠ ${prefix}brokenglass
+╠ ${prefix}waterpipe
+╠ ${prefix}spooky
+╠ ${prefix}circuit
+╠ ${prefix}metallic
+╠ ${prefix}demon
+╠ ${prefix}sparklechristmas
+╠ ${prefix}christmas
+╠ ${prefix}3dchristmas
+╠ ${prefix}3dbox
+╠ ${prefix}waterdrop
+╠ ${prefix}lion2
+╠ ${prefix}papercut
+╠ ${prefix}transformer
+╠ ${prefix}neondevil
+╠ ${prefix}3davengers
+╠ ${prefix}3dstone
+╠ ${prefix}3dstone2
+╠ ${prefix}summertime
+╠ ${prefix}thunder
+╠ ${prefix}window
+╠ ${prefix}graffiti
+╠ ${prefix}graffitibike
+╠ ${prefix}pornhub
+╠ ${prefix}glitch
+╠ ${prefix}blackpinkart
+╠ ${prefix}glitch2
+╠ ${prefix}glitch3
+╠ ${prefix}3dspace
+╠ ${prefix}lion
+╠ ${prefix}3dneon
+╠ ${prefix}greenneon
+╠ ${prefix}bokeh
+╠ ${prefix}holographic
+╠ ${prefix}bear
+╠ ${prefix}wolf
+╠ ${prefix}joker
+╠ ${prefix}dropwater
+╠ ${prefix}dropwater2
+╠ ${prefix}thewall
+╠ ${prefix}neonlight
+╠ ${prefix}natural
+╠ ${prefix}carbon
+╠ ${prefix}pencil
+╠ ${prefix}blackpink2
+╠ ${prefix}neon
+╠ ${prefix}neonlight2
+╠ ${prefix}toxic
+╠ ${prefix}strawberry
+╠ ${prefix}discovery
+╠ ${prefix}1917
 ╠ ${prefix}sci_fi
 ╠ ${prefix}ancient
 ╠ ${prefix}fabric
@@ -7843,15 +7879,23 @@ const buttonMessage = {
 ╠ ${prefix}halloween
 ╠ ${prefix}watercolor
 ╠ ${prefix}classic
-╠═════✪ DOWNLOAD 	
-╠${prefix}tiktok [url]
-╠${prefix}tiktokaudio [url]
-╠${prefix}instagram [url]
-╠${prefix}spotify [url]
-╠${prefix}mediafire [url]
-╠${prefix}ytmp3 [url|quality]
-╠${prefix}ytmp4 [url|quality]
-╠${prefix}gitclone [repo link]
+╠═════✪  🔰  DOWNLOAD  🔰 	
+╠  ${prefix}tiktok
+╠  🔰   URL
+╠  ${prefix}tiktokaudio
+╠  🔰   URL
+╠  ${prefix}instagram
+╠  🔰   URL
+╠  ${prefix}spotify
+╠  🔰   URL
+╠  ${prefix}mediafire
+╠  🔰   URL
+╠  ${prefix}ytmp3
+╠  🔰   URL |QULITY
+╠  ${prefix}ytmp4
+╠  🔰   URL |QULITY
+╠  ${prefix}gitclone
+╠  🔰   REPO LINK
 ╠═══════✪ SEARCH 	
 ╠${prefix}play [query]
 ╠${prefix}song [query]
