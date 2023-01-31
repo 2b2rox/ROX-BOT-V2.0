@@ -1993,7 +1993,7 @@ if (args.length < 1 || !isUrl(text) || !xeonaudp3.isYTUrl(text)) throw `Where's 
 const audio=await xeonaudp3.mp3(text)
 await XeonBotInc.sendMessage(m.chat,{
     audio: fs.readFileSync(audio.path),
-    mimetype: 'audio/mp4', ptt: true,
+    mimetype: 'audio/mp4', ptt: false,
     contextInfo:{
         externalAdReply:{
             title:audio.meta.title,
