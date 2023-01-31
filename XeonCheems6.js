@@ -7672,7 +7672,7 @@ case 'alive': case 'panel': case 'list': case 'menu': case 'help': case '?': {
 						]
 const listMessage = {
   text: "Please choose the menu",
-  footer: `${botname}\n📍YouTube: ${websitex}\n🍜Script: ${botscript}`,
+  footer: `${botname}\n📍YouTube: https://www.youtube.com/@MusicNooo \n🍜Script: https://github.com/malikabhishek1/ROX-BOT `,
   title: `Hi 👋 ${pushname}`,
   buttonText: "Menu",
   sections
