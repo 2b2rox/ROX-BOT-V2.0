@@ -35,14 +35,13 @@ Big thanks❤️ to <a href="https://github.com/nimaofficial" target="_blank">Ni
 ## `Scan QR Code For Session`
 [![Cheems Bot](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@Abhi1yt/Rox-Bot-QR?v=1)
 
- ` BUILDPACKS`
-
-```
-https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
-https://github.com/clhuang/heroku-buildpack-webp-binaries.git
-```
 
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2FDGXeon%2FCheemsBot-MD6)
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DGXeon/CheemsBot-MD6/)
+                                                                                                                                                 
+## ```THANKS TO```
+- Nimesh
+- Music Nooo   
+- My Family                                                                                                                                                  
 
