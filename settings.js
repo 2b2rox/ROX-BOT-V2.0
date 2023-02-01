@@ -18,7 +18,7 @@ global.doc6 = 'application/vnd.android.package-archive'
 global.owner = ['94716315866'] //ur owner number
 global.ownername = "Malik Abhishek" //ur owner name
 global.ytname = "Music Nooo" //ur yt chanel name
-global.socialm = "GitHub: DGXeon" //ur github or insta name
+global.socialm = "GitHub: RoxBot" //ur github or insta name
 global.location = "Sri Lanka, Colombo," //ur location
 
 //bot bomdy 
@@ -26,12 +26,12 @@ global.ownernomer = "94716315866" //ur number
 global.premium = ['94716315866'] //ur premium number
 global.botname = 'Rox Bot MD V1' //ur bot name
 global.linkz = "https://www.youtube.com/@MusicNooo" //your theme url which will be displayed on whatsapp
-global.websitex = "https://youtu.be/WiIqCdiDjFo" //ur website to be displayed
-global.botscript = 'https://github.com/DGXeon/CheemsBot-MD6' //script link
+global.websitex = "https://www.youtube.com/@MusicNooo" //ur website to be displayed
+global.botscript = 'https://github.com/malikabhishek1/ROX-BOT' //script link
 global.themeemoji = "😎" //ur theme emoji
 global.packname = "Sticker By" //ur sticker watermark packname
 global.author = "Rox-Bot V1" //ur sticker watermark author
-global.wm = "Abhi MD." //ur watermark
+global.wm = "ROX - BOT." //ur watermark
 
 // Other
 global.sessionName = 'session'
