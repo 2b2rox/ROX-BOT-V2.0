@@ -39,10 +39,39 @@ Big thanks❤️ to <a href="https://github.com/nimaofficial" target="_blank">Ni
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2FDGXeon%2FCheemsBot-MD6)
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DGXeon/CheemsBot-MD6/)
+
+## ```HOW TO DEPLOY ROX - BOT MD```
+
+<p>
+1.Fork the on my bot.
+</p>
+<p>
+ 2.Scan the qr code <a href="https://replit.com/@Abhi1yt/Rox-Bot-QR?v=1" target="blank">Replit..</a>
+</p>
+<p>
+3.Download on session.json file, delete the bot session.json file on <a href="https://github.com/malikabhishek1/ROX-BOT" target="blank">Rox - Bot files....</a> and add your session.json file Rox - Bot files.
+</p>
+<p>
+4.Sing up on your github account on <a href="https://railway.app/login" target="blank">Railway.app</a>
+</p>
+<p>
+5.Go to the <a href="https://railway.app" target="blank">Railway.</a>. click $ Start A New Project $ > $ Deploy From GitHub repo $ > $ Select your $ > $ Deploy Now $ > Creating you bot now 😁
+</p>
+<p>
+6.Enjoy your bot now 😉
+</p>
                                                                                                                                                  
 ## ```THANKS TO```
 - Nimesh
 - Music Nooo   
 - My Family
-- Chenula                                                                                                                                                 
+- Chenula
+
+## ```CONTAC US WHATSAPP```
+
+ <p><a href="wa.me/94716315866" target="blank">Malik Abhishek [Me]</a></p>
+ <p><a href="wa.me/94755228896" target="blank">Music Nooo [My Bot Number]</a></p>
+ <p><a href="wa.me/94774564941" target="blank">Nimesh [My Best Frend}</a></p>
+ 
+ 
 
