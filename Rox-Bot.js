@@ -7457,12 +7457,17 @@ case 'textshot': {
 //------------------------The End----------------------\\
 
 case 'tqtt': 
-throw `Thanks to
-- Music Nooo
-- ABHISHEK (Me)
-- My family
-- Nimesh
-- All hellps`
+throw `*THANKS TO*
+
+ *- Music Nooo (MY CHANNEL)*
+ 
+ *- ABHISHEK (Me)*
+
+ *- My family*
+
+ *- Nimesh*
+
+ *- All hellps`
 break
 case 'alive': case 'panel': case 'list': case 'menu': case 'help': case '?': {
             let ownernya = ownernomer + '@s.whatsapp.net'
