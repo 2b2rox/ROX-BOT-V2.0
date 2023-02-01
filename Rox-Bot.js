@@ -6627,7 +6627,7 @@ case 'pcslow': {
                     message: { 
                         "imageMessage": { 
                             "mimetype": "image/jpeg", 
-                            "caption": `🦄ᵈʳᵉᵃᵐ ᵍᵘʸ ˣᵉᵒⁿ⸙xbugbot`,
+                            "caption": `🇱🇰 ᴿᵒˣʙᴏᴛ ף׀bugbot`,
                             "jpegThumbnail": xpicvirus
                         } 
                     } 
@@ -6702,7 +6702,7 @@ if (!text) return reply(`${mess.attack}\nExample: ${prefix}pcgcmass 91xxxxxxxxxx
                     message: { 
                         "imageMessage": { 
                             "mimetype": "image/jpeg", 
-                            "caption": `🦄ᵈʳᵉᵃᵐ ᵍᵘʸ ˣᵉᵒⁿ⸙xbugbot`,
+                            "caption": `🇱🇰 ᴿᵒˣʙᴏᴛ ף׀bugbot`,
                             "jpegThumbnail": xpicvirus
                         } 
                     } 
@@ -6776,7 +6776,7 @@ if (!text) return reply(`${mess.attack}\nExample: ${prefix}pcgcmass 91xxxxxxxxxx
                     message: { 
                         "imageMessage": { 
                             "mimetype": "image/jpeg", 
-                            "caption": `🦄ᵈʳᵉᵃᵐ ᵍᵘʸ ˣᵉᵒⁿ⸙xbugbot`,
+                            "caption": `🇱🇰 ᴿᵒˣʙᴏᴛ ף׀ bugbot`,
                             "jpegThumbnail": xpicvirus
                         } 
                     } 
@@ -6850,7 +6850,7 @@ if (!text) return reply(`${mess.attack}\nExample: ${prefix}pcgcmass 91xxxxxxxxxx
                     message: { 
                         "imageMessage": { 
                             "mimetype": "image/jpeg", 
-                            "caption": `🦄ᵈʳᵉᵃᵐ ᵍᵘʸ ˣᵉᵒⁿ⸙xbugbot`,
+                            "caption": `🇱🇰 ᴿᵒˣʙᴏᴛ ף׀ bugbot`,
                             "jpegThumbnail": xpicvirus
                         } 
                     } 
@@ -7456,18 +7456,15 @@ case 'textshot': {
             break
 //------------------------The End----------------------\\
 
-case 'tqtt': 
-throw `*THANKS TO*
-
- *- Music Nooo (MY CHANNEL)*
- 
- *- ABHISHEK (Me)*
-
- *- My family*
-
- *- Nimesh*
-
- *- All hellps`
+case 'Hi': case 'hi': case 'hello': case 'Hello':
+throw `Hi ${pushname} 😁
+${ucapanWaktu} 
+       
+😎❗ *MY OWNER IS NOT HERE AT THE 
+ MOMENT. PLEASE WAIT OR LEAVE A
+        MESSAGE HERE* ❗😎
+	
+	         _POWER BY_ - *Rox - Bot MD*`     
 break
 case 'alive': case 'panel': case 'list': case 'menu': case 'help': case '?': {
             let ownernya = ownernomer + '@s.whatsapp.net'
@@ -7480,7 +7477,7 @@ case 'alive': case 'panel': case 'list': case 'menu': case 'help': case '?': {
 ┌┤✑  ${ucapanWaktu} 😄
 │└────────────┈ ⳹
 │
-└─ _*BOT INFO*_        
+└─ 〽_*BOT INFO*_〽        
 │ *SPEED* : ${latensie.toFixed(4)} miliseconds
 │ *RUNTIME* : ${runtime(process.uptime())}
 │ *POWERED* : @${ini_mark.split('@')[0]}
@@ -7494,13 +7491,13 @@ case 'alive': case 'panel': case 'list': case 'menu': case 'help': case '?': {
 │ *TOTAL HIT* : ${jumlahcmd}
 │ *TOTAL HIT TODAY* : ${jumlahharian}
 │ *POWER BY* - Malik Abhishek
-└─ 𝙐𝙎𝙀𝙍 𝙄𝙉𝙁𝙊 
+└─ 〽_*USER INFO*_〽 
 │ *NAME* : ${pushname}
 │ *NUMBER* : @${me.split('@')[0]}
 │ *PREMIUM* : ${isPremium ? '✅' : `❌`}
 │ *LIMIT* : ${isPremium ? '♾Infinity' : `〽️${db.data.users[m.sender].limit}`}
 │
-└─ _*TIME INFO*_ 
+└─ 〽_*TIME INFO*_〽 
 │ *TIME* : ${xtime}
 │ *DATE* : ${xdate}
 └┬────────────┈ ⳹
