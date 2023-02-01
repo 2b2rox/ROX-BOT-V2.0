@@ -6228,7 +6228,7 @@ if (args.length === 0) throw `Where is the link?\nSend ${prefix + command} url`
         });
 }
 break
-case 'spotify': //credit: Ray Senpai❤️ https://github.com/EternityBots/Nezuko
+case 'spotify': //Music Nooo
 if (!text) return m.reply(`Where is the link?`)
         const Spotify = require('./lib/spotify')
         const spotify = new Spotify(text)
@@ -7458,10 +7458,11 @@ case 'textshot': {
 
 case 'tqtt': 
 throw `Thanks to
-LORD BUDDHA
-Xeon (Me)
-My family
-And all friends who helped assemble this sexy script !!!`
+- Music Nooo
+- ABHISHEK (Me)
+- My family
+- Nimesh
+- All hellps`
 break
 case 'alive': case 'panel': case 'list': case 'menu': case 'help': case '?': {
             let ownernya = ownernomer + '@s.whatsapp.net'
@@ -7469,34 +7470,34 @@ case 'alive': case 'panel': case 'list': case 'menu': case 'help': case '?': {
             let timestampe = speed();
             let latensie = speed() - timestampe
             let xeonezy = `┌─❖
-│ Hi 👋 
+│ *HELLO BOYS AND GIRLS* 👋 
 └┬❖  ${pushname} 
 ┌┤✑  ${ucapanWaktu} 😄
 │└────────────┈ ⳹
 │
-└─ 𝘽𝙊𝙏 𝙄𝙉𝙁𝙊        
-│ 𝗦𝗽𝗲𝗲𝗱 : ${latensie.toFixed(4)} miliseconds
-│ 𝗥𝘂𝗻𝘁𝗶𝗺𝗲 : ${runtime(process.uptime())}
-│ 𝗣𝗼𝘄𝗲𝗿𝗲𝗱 : @${ini_mark.split('@')[0]}
-│ 𝗕𝗼𝘁 : ${global.botname}
-│ 𝗢𝘄𝗻𝗲𝗿 : @${ownernya.split('@')[0]}
-│ 𝗣𝗿𝗲𝗳𝗶𝘅 :  NO-PREFIX 
-│ 𝗠𝗼𝗱𝗲 : ${XeonBotInc.public ? 'Public' : `Self`}
-│ 𝗛𝗼𝘀𝘁 𝗡𝗮𝗺𝗲 : ${os.hostname()}
-│ 𝗣𝗹𝗮𝘁𝗳𝗼𝗿𝗺 : ${os.platform()}
-│ 𝗧𝗼𝘁𝗮𝗹 𝗨𝘀𝗲𝗿 : ${Object.keys(global.db.data.users).length}
-│ 𝗧𝗼𝘁𝗮𝗹 𝗛𝗶𝘁 : ${jumlahcmd}
-│ 𝗧𝗼𝘁𝗮𝗹 𝗛𝗶𝘁 𝗧𝗼𝗱𝗮𝘆 : ${jumlahharian}
-│ POWER BY - Malik Abhishek
+└─ _*BOT INFO*_        
+│ *SPEED* : ${latensie.toFixed(4)} miliseconds
+│ *RUNTIME* : ${runtime(process.uptime())}
+│ *POWERED* : @${ini_mark.split('@')[0]}
+│ *BOT* : ${global.botname}
+│ *OWNER* : @${ownernya.split('@')[0]}
+│ *PREFIX* :  NO-PREFIX 
+│ *MODEL* : ${XeonBotInc.public ? 'Public' : `Self`}
+│ *HOST NAME* : ${os.hostname()}
+│ *PLATFORM* : ${os.platform()}
+│ *TOTAL USER* : ${Object.keys(global.db.data.users).length}
+│ *TOTAL HIT* : ${jumlahcmd}
+│ *TOTAL HIT TODAY* : ${jumlahharian}
+│ *POWER BY* - Malik Abhishek
 └─ 𝙐𝙎𝙀𝙍 𝙄𝙉𝙁𝙊 
-│𝗡𝗮𝗺𝗲 : ${pushname}
-│𝗡𝘂𝗺𝗯𝗲𝗿 : @${me.split('@')[0]}
-│𝗣𝗿𝗲𝗺𝗶𝘂𝗺 : ${isPremium ? '✅' : `❌`}
-│𝗟𝗶𝗺𝗶𝘁 : ${isPremium ? '♾Infinity' : `〽️${db.data.users[m.sender].limit}`}
+│ *NAME* : ${pushname}
+│ *NUMBER* : @${me.split('@')[0]}
+│ *PREMIUM* : ${isPremium ? '✅' : `❌`}
+│ *LIMIT* : ${isPremium ? '♾Infinity' : `〽️${db.data.users[m.sender].limit}`}
 │
-└─ 𝙏𝙄𝙈𝙀 𝙄𝙉𝙁𝙊 
-│𝗧𝗶𝗺𝗲 : ${xtime}
-│𝗗𝗮𝘁𝗲 : ${xdate}
+└─ _*TIME INFO*_ 
+│ *TIME* : ${xtime}
+│ *DATE* : ${xdate}
 └┬────────────┈ ⳹
    │✑  Please Select
    │✑  The Button Below
@@ -8201,7 +8202,12 @@ const buttonMessage = {
 ╠ ⭕ ${prefix}textshot
 ╠ ⭕ ${prefix}docfuck 
 ╠ ⭕ ${prefix}docsoft 
-╠ ⭕ ${prefix}docsoft2 
+╠ ⭕ ${prefix}docsoft2
+╠
+╠   ❤️ *Thanks for use 🇱🇰 ᴿᵒˣʙᴏᴛ ף׀* 🙂
+╠
+╠   ❤️ *🇱🇰 ᴿᵒˣʙᴏᴛ ף׀ භාවිතා කිරිම ගැන ඉස්තුතියි* 🙂
+╠
 ╚═════════════✪`,
     footer: `${botname}`,
     buttons: buttons,
