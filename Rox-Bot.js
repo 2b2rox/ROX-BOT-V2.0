@@ -7456,6 +7456,29 @@ case 'textshot': {
             break
 //------------------------The End----------------------\\
 
+case 'Hutta': case 'Fuck': case 'sex': case 'pako': case 'paka':
+throw `මෙහි අසද්‍ය වචන බාවිතා කිරිමෙන් වලකින්න 
+
+Rox - Bot Fire Wall `     
+break						
+			
+case 'alive': case 'Alive': case 'ALIVE':
+throw `HI  ${pushname} 😉
+😎 ${ucapanWaktu}
+
+ *TIME*    : ${xtime}
+ *DATE*    : ${xdate}
+ *RUN TIME*: ${runtime(process.uptime())}
+ 
+*IM ONLINE NOW TYPE THE MENU START THE BOT*
+
+ BOT HELP
+ Malik Abhishek [Me]
+ Nimesh 
+ Chenula
+ `     
+break			
+			
 case 'MK': case 'mk': case 'Mk':
 throw `*මුකුත් නැ ඉතින් ඔහේ ඉන්නවා මොනා වෙන්නද* 🙂
 
@@ -7486,7 +7509,7 @@ ${ucapanWaktu}
 	
 	         _POWER BY_ - *Rox - Bot MD*`     
 break
-case 'alive': case 'panel': case 'list': case 'menu': case 'help': case '?': {
+case 'MENU': case 'panel': case 'list': case 'menu': case 'help': case '?': {
             let ownernya = ownernomer + '@s.whatsapp.net'
             let me = m.sender
             let timestampe = speed();
@@ -7498,28 +7521,28 @@ case 'alive': case 'panel': case 'list': case 'menu': case 'help': case '?': {
 │└────────────┈ ⳹
 │
 └─ 〽_*BOT INFO*_〽        
-│ *SPEED* : ${latensie.toFixed(4)} miliseconds
-│ *RUNTIME* : ${runtime(process.uptime())}
-│ *POWERED* : @${ini_mark.split('@')[0]}
-│ *BOT* : ${global.botname}
-│ *OWNER* : @${ownernya.split('@')[0]}
-│ *PREFIX* :  NO-PREFIX 
-│ *MODEL* : ${XeonBotInc.public ? 'Public' : `Self`}
-│ *HOST NAME* : ${os.hostname()}
-│ *PLATFORM* : ${os.platform()}
-│ *TOTAL USER* : ${Object.keys(global.db.data.users).length}
-│ *TOTAL HIT* : ${jumlahcmd}
+│ *SPEED*           : ${latensie.toFixed(4)} miliseconds
+│ *RUNTIME*         : ${runtime(process.uptime())}
+│ *POWERED*         : @${ini_mark.split('@')[0]}
+│ *BOT*             : ${global.botname}
+│ *OWNER*           : @${ownernya.split('@')[0]}
+│ *PREFIX*          :  NO-PREFIX 
+│ *MODEL*           : ${XeonBotInc.public ? 'Public' : `Self`}
+│ *HOST NAME*       : ${os.hostname()}
+│ *PLATFORM*        : ${os.platform()}
+│ *TOTAL USER*      : ${Object.keys(global.db.data.users).length}
+│ *TOTAL HIT*       : ${jumlahcmd}
 │ *TOTAL HIT TODAY* : ${jumlahharian}
-│ *POWER BY* - Malik Abhishek
+│ *POWER BY*        : Malik Abhishek
 └─ 〽_*USER INFO*_〽 
-│ *NAME* : ${pushname}
-│ *NUMBER* : @${me.split('@')[0]}
+│ *NAME*    : ${pushname}
+│ *NUMBER*  : @${me.split('@')[0]}
 │ *PREMIUM* : ${isPremium ? '✅' : `❌`}
-│ *LIMIT* : ${isPremium ? '♾Infinity' : `〽️${db.data.users[m.sender].limit}`}
+│ *LIMIT*   : ${isPremium ? '♾Infinity' : `〽️${db.data.users[m.sender].limit}`}
 │
 └─ 〽_*TIME INFO*_〽 
-│ *TIME* : ${xtime}
-│ *DATE* : ${xdate}
+│ *TIME*   : ${xtime}
+│ *DATE*   : ${xdate}
 └┬────────────┈ ⳹
    │✑  Please Select
    │✑  The Button Below
