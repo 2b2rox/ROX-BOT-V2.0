@@ -17,7 +17,7 @@
     "multi-device",
     "rox-bot-inc"
   ],
-  "author": "DGXeon",
+  "author": "AbhiBro",
   "license": "AGPL-3",
   "dependencies": {
     "@adiwajshing/baileys": "^4.4.0",
