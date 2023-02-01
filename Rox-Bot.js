@@ -7456,6 +7456,26 @@ case 'textshot': {
             break
 //------------------------The End----------------------\\
 
+case 'MK': case 'mk': case 'Mk':
+throw `*මුකුත් නැ ඉතින් ඔහේ ඉන්නවා මොනා වෙන්නද* 🙂
+
+😍 *නිකන් ඉන්න එකේ මගේ CHANNEL එක SUBSCRIBE කරන් යන්ඩො 😇
+
+😍 Link එක පහල කැමතිනම් SHARE පරකුත් දලා දෙන්න ඉතින්* 
+
+https://youtube.com/@MusicNooo
+
+
+•°”˜˜”°•.¸☆ ★ ☆¸.•°”˜˜”°•.¸☆
+╔╗╔╦══╦═╦═╦╗╔╗ ★ ★
+║╚╝║══║═║═║╚╝║ ☆¸.•°*”
+║╔╗║╔╗║╔╣╔╩╗╔╝ ★
+╚╝╚╩╝╚╩╝╚╝═╚╝ ♡￥☆
+
+
+        _POWER BY_ - *Rox - Bot MD*`     
+break			
+			
 case 'Hi': case 'hi': case 'hello': case 'Hello':
 throw `Hi ${pushname} 😁
 ${ucapanWaktu} 
