@@ -7455,6 +7455,13 @@ case 'textshot': {
             }
             break
 //------------------------The End----------------------\\
+			
+case 'Gn': case 'gn': case 'GN': case 'GOOD NIGHT': case 'Good Night':
+throw ` Good Night ${pushname}
+
+
+        _POWER BY_ - *Rox - Bot MD*`     
+break			
 
 case 'Hutta': case 'Fuck': case 'sex': case 'pako': case 'paka':
 throw `මෙහි අසද්‍ය වචන බාවිතා කිරිමෙන් වලකින්න 
