@@ -2,7 +2,7 @@
 
 <h1 align="center">ROX - BOT MD<br></h1>
 <p align="center">
-<img src="https://telegra.ph/file/18114dd56b2dde35bc78b.jpg" alt="animated" width="250" height="50" />
+<img src="https://telegra.ph/file/18114dd56b2dde35bc78b.jpg" alt="animated" width="250" height="75" />
 </p>
 
 <p align="center">
