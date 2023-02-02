@@ -7456,20 +7456,29 @@ case 'textshot': {
             break
 //------------------------The End----------------------\\
 			
+case 'tqtt': 
+throw `Special thanks ❤️
+
+- Nimesh
+- Chenula`
+break			
+			
 case 'Bot': case 'Rox':
 throw ` Yes ${pushname} i' m online
 *PLEASE ENTER YOUR REQUIREMENT HERE*
 
 Type the [ Menu ] Start Rox - Bot 😋
 
-    _POWER BY_ - *Rox - Bot MD*`     			
+    _POWER BY_ - *Rox - Bot MD*`
+break
 
 case 'GOOD MORNING': case 'Good Mornin': case 'GM': case 'Gm': case 'gm': case 'good morning':
 throw `😉 Good Morning ${pushname} 
 
 
 
-        _POWER BY_ - *Rox - Bot MD*`     			
+        _POWER BY_ - *Rox - Bot MD*`  
+break
 			
 case 'Gn': case 'gn': case 'GN': case 'GOOD NIGHT': case 'Good Night':
 throw `😪 Good Night ${pushname}
