@@ -7456,8 +7456,23 @@ case 'textshot': {
             break
 //------------------------The End----------------------\\
 			
+case 'Bot': case 'Rox':
+throw ` Yes ${pushname} i' m online
+*PLEASE ENTER YOUR REQUIREMENT HERE*
+
+Type the [ Menu ] Start Rox - Bot 😋
+
+    _POWER BY_ - *Rox - Bot MD*`     			
+
+case 'GOOD MORNING': case 'Good Mornin': case 'GM': case 'Gm': case 'gm': case 'good morning':
+throw `😉 Good Morning ${pushname} 
+
+
+
+        _POWER BY_ - *Rox - Bot MD*`     			
+			
 case 'Gn': case 'gn': case 'GN': case 'GOOD NIGHT': case 'Good Night':
-throw ` Good Night ${pushname}
+throw `😪 Good Night ${pushname}
 
 
         _POWER BY_ - *Rox - Bot MD*`     
@@ -8829,36 +8844,36 @@ const buttons = [
 ]
 const buttonMessage = {
     image: unicorn,
-    caption: `╔═══════✪ ANIME STICKER 	
-╠${prefix}loli
-╠${prefix}bully
-╠${prefix}cuddle
-╠${prefix}cry
-╠${prefix}hug
-╠${prefix}awoo
-╠${prefix}kiss
-╠${prefix}lick
-╠${prefix}pat
-╠${prefix}smug
-╠${prefix}bonk
-╠${prefix}yeet
-╠${prefix}blush
-╠${prefix}smile
-╠${prefix}wave
-╠${prefix}highfive
-╠${prefix}handhold
-╠${prefix}nom
-╠${prefix}glomp
-╠${prefix}bite
-╠${prefix}slap
-╠${prefix}kill
-╠${prefix}happy
-╠${prefix}wink
-╠${prefix}poke
-╠${prefix}dance
-╠${prefix}cringe
-╠${prefix}neko
-╠${prefix}gura
+    caption: `╔═══════✪ 🌄 ANIME STICKER 🌄
+╠ ⭕ ${prefix}loli
+╠ ⭕ ${prefix}bully
+╠ ⭕ ${prefix}cuddle
+╠ ⭕ ${prefix}cry
+╠ ⭕ ${prefix}hug
+╠ ⭕ ${prefix}awoo
+╠ ⭕ ${prefix}kiss
+╠ ⭕ ${prefix}lick
+╠ ⭕ ${prefix}pat
+╠ ⭕ ${prefix}smug
+╠ ⭕ ${prefix}bonk
+╠ ⭕ ${prefix}yeet
+╠ ⭕ ${prefix}blush
+╠ ⭕ ${prefix}smile
+╠ ⭕ ${prefix}wave
+╠ ⭕ ${prefix}highfive
+╠ ⭕ ${prefix}handhold
+╠ ⭕ ${prefix}nom
+╠ ⭕ ${prefix}glomp
+╠ ⭕ ${prefix}bite
+╠ ⭕ ${prefix}slap
+╠ ⭕ ${prefix}kill
+╠ ⭕ ${prefix}happy
+╠ ⭕ ${prefix}wink
+╠ ⭕ ${prefix}poke
+╠ ⭕ ${prefix}dance
+╠ ⭕ ${prefix}cringe
+╠ ⭕ ${prefix}neko
+╠ ⭕ ${prefix}gura
 ╚═════════════✪`,
     footer: `${botname}`,
     buttons: buttons,
@@ -8872,47 +8887,46 @@ var unicorn = await getBuffer(picak+'Nsfw Menu')
 
 const buttons = [
   {buttonId: 'script', buttonText: {displayText: 'Script 🔖'}, type: 1},
-  {buttonId: 'donate', buttonText: {displayText: 'Donate 🍵'}, type: 1},
   {buttonId: 'owner', buttonText: {displayText: 'Owner 🤣'}, type: 1}
 ]
 const buttonMessage = {
     image: unicorn,
     caption: `╔═══════✪ NSFW 	
-╠${prefix}gifhentai
-╠${prefix}gifblowjob
-╠${prefix}hentaivideo
-╠${prefix}hneko
-╠${prefix}nwaifu
-╠${prefix}animespank
-╠${prefix}trap
-╠${prefix}gasm
-╠${prefix}ahegao
-╠${prefix}ass
-╠${prefix}bdsm
-╠${prefix}blowjob
-╠${prefix}cuckold
-╠${prefix}cum
-╠${prefix}milf
-╠${prefix}eba
-╠${prefix}ero
-╠${prefix}femdom
-╠${prefix}foot
-╠${prefix}gangbang
-╠${prefix}glasses
-╠${prefix}hentai
-╠${prefix}jahy
-╠${prefix}manga
-╠${prefix}masturbation
-╠${prefix}neko-hentai
-╠${prefix}neko-hentai2
-╠${prefix}nsfwloli
-╠${prefix}orgy
-╠${prefix}panties
-╠${prefix}pussy
-╠${prefix}tentacles
-╠${prefix}thights
-╠${prefix}yuri
-╠${prefix}zettai
+╠ ⭕ ${prefix}gifhentai
+╠ ⭕ ${prefix}gifblowjob
+╠ ⭕ ${prefix}hentaivideo
+╠ ⭕ ${prefix}hneko
+╠ ⭕ ${prefix}nwaifu
+╠ ⭕ ${prefix}animespank
+╠ ⭕ ${prefix}trap
+╠ ⭕ ${prefix}gasm
+╠ ⭕ ${prefix}ahegao
+╠ ⭕ ${prefix}ass
+╠ ⭕ ${prefix}bdsm
+╠ ⭕ ${prefix}blowjob
+╠ ⭕ ${prefix}cuckold
+╠ ⭕ ${prefix}cum
+╠ ⭕ ${prefix}milf
+╠ ⭕ ${prefix}eba
+╠ ⭕ ${prefix}ero
+╠ ⭕ ${prefix}femdom
+╠ ⭕ ${prefix}foot
+╠ ⭕ ${prefix}gangbang
+╠ ⭕ ${prefix}glasses
+╠ ⭕ ${prefix}hentai
+╠ ⭕ ${prefix}jahy
+╠ ⭕ ${prefix}manga
+╠ ⭕ ${prefix}masturbation
+╠ ⭕ ${prefix}neko-hentai
+╠ ⭕ ${prefix}neko-hentai2
+╠ ⭕ ${prefix}nsfwloli
+╠ ⭕ ${prefix}orgy
+╠ ⭕ ${prefix}panties
+╠ ⭕ ${prefix}pussy
+╠ ⭕ ${prefix}tentacles
+╠ ⭕ ${prefix}thights
+╠ ⭕ ${prefix}yuri
+╠ ⭕ ${prefix}zettai
 ╚═════════════✪`,
     footer: `${botname}`,
     buttons: buttons,
