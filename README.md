@@ -2,7 +2,7 @@
 
 <h1 align="center">ROX - BOT MD<br></h1>
 <p align="center">
-<img src="https://telegra.ph/file/18114dd56b2dde35bc78b.jpg" alt="animated" width="250 height="50" />
+<img src="https://telegra.ph/file/18114dd56b2dde35bc78b.jpg" alt="animated" width="250" height="50" />
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@ Big thanks❤️ to <a href="https://github.com/nimaofficial" target="_blank">Ni
 ---
 
 <p align="center">
-<a href="https://www.youtube.com/@MusicNooo"><img title="Size" src="https://telegra.ph/file/4a6d05667a894d7aa6622.png"width="100px" height="50px"></a>
+<a href="https://www.youtube.com/@MusicNooo"><img title="Size" src="https://telegra.ph/file/4a6d05667a894d7aa6622.png"width="150px" height="50px"></a>
 </p>
 
 ------
@@ -62,10 +62,10 @@ Big thanks❤️ to <a href="https://github.com/nimaofficial" target="_blank">Ni
 </p>
                                                                                                                                                  
 ## ```THANKS TO```
-- Nimesh
-- Music Nooo   
-- My Family
-- Chenula
+ - Nimesh
+ - Music Nooo   
+ - My Family
+ - Chenula
 
 ## ```CONTAC US WHATSAPP```
 
