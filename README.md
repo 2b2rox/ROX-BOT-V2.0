@@ -2,7 +2,7 @@
 
 <h1 align="center">ROX - BOT MD<br></h1>
 <p align="center">
-<img src="https://telegra.ph/file/18114dd56b2dde35bc78b.jpg" alt="animated" width="250" height="75" />
+<a href="wa.me/94716315866"><img src="https://telegra.ph/file/18114dd56b2dde35bc78b.jpg" alt="animated" width="250" height="75"/></a>
 </p>
 
 <p align="center">
@@ -10,7 +10,7 @@ Cheems Bot Multi Device is a automated whatsapp bot developed by <a href="https:
 </p>
 
 <p align="center">
-Big thanks❤️ to <a href="https://github.com/nimaofficial" target="_blank">NimaOfficial</a> for huge contribution, Check out his bot <a href="https://github.com/nimaofficial/Black-Dragon" target="_blank">Black Dragon</a>
+Big thanks❤️ to <a href="https://github.com/nimaofficial" target="_blank">NimaOfficial</a> for huge contribution, Check out his bot  href="https://github.com/nimaofficial/Black-Dragon" target="_blank">Black Dragon</a>
 </p>
 
 ---
