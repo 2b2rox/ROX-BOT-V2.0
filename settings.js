@@ -40,16 +40,16 @@ global.sp = ''
 
 //messages
 global.mess = {
-    success: 'Here you go!',
-    admin: 'This feature could be used by admins only!',
-    botAdmin: 'Bot Must Be Admin First!',
+    success: 'සර්තකයි!',
+    admin: 'මෙය ADMIN ට පමනක් අයිති දෙයකි!',
+    botAdmin: 'bot පරිපාලක විය යුතුය!',
     premime: 'Premium Special Features If You Want to Register Type Rent',
-    owner: 'This feature could be used by owner only',
-    group: 'Features Used Only For Groups!',
-    private: 'Features Used Only For Private Chat!',
+    owner: 'මෙය owner ට පමනක් වලන්ගු වේ',
+    group: 'මෙය GROUP සදහා පමණි!',
+    private: 'මෙය PRIVATE CHAT සදහ පමණි !',
     bot: 'This feature could be used by bot only',
-    wait: 'Uploding soon',
-    linkm: 'Where is the link?',
+    wait: 'මදක් රැදි සිටින්න',
+    linkm: 'කෝ මෙකේ LINK එක 🫤?',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
     nsfw: 'The nsfw feature has not been activated, please contact the admin to activate',
 }
