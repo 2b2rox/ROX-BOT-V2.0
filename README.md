@@ -10,7 +10,7 @@ Cheems Bot Multi Device is a automated whatsapp bot developed by <a href="https:
 </p>
 
 <p align="center">
-Big thanks❤️ to <a href="https://github.com/nimaofficial" target="_blank">NimaOfficial</a> for huge contribution, Check out his bot  href="https://github.com/nimaofficial/Black-Dragon" target="_blank">Black Dragon</a>
+Big thanks❤️ to <a href="https://github.com/nimaofficial" target="_blank">NimaOfficial</a> for huge contribution, Check out his bot</a>
 </p>
 
 ---
@@ -33,7 +33,7 @@ Big thanks❤️ to <a href="https://github.com/nimaofficial" target="_blank">Ni
 
 
 ## `Scan QR Code For Session`
-[![Cheems Bot](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@Abhi1yt/Rox-Bot-QR?v=1)
+[![Cheems Bot](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@2b2rox/Rox-Bot-Qr?v=1)
 
 
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2FDGXeon%2FCheemsBot-MD6)
