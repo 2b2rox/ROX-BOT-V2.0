@@ -38,7 +38,7 @@ Big thanks❤️ to <a href="https://github.com/nimaofficial" target="_blank">Ni
 
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2FDGXeon%2FCheemsBot-MD6)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DGXeon/CheemsBot-MD6/)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DGXeon/CheemsBot-MD8/)
 
 ## ```HOW TO DEPLOY ROX - BOT MD```
 
